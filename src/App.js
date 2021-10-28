@@ -60,7 +60,7 @@ function App() {
         </div>
       </Carousel>
       <section className="contact">
-        <h2>Contact me by phone, email, or Facebook</h2>
+        <h2>Contact me by phone, email, or on Facebook</h2>
         <div>
           <p>(410) 207-3170</p>
           <a className="email" href="mailto:carolann12674@gmail.com">
