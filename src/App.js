@@ -62,7 +62,7 @@ function App() {
       <section className="contact">
         <h2>Contact me by phone, email, or on Facebook</h2>
         <div>
-          <p>(410) 207-3170</p>
+          <a href="tel:410-207-3170">(410) 207-3170</a>
           <a className="email" href="mailto:carolann12674@gmail.com">
             <img src={email} alt="" />
           </a>
