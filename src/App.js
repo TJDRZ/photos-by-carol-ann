@@ -21,7 +21,7 @@ function App() {
       <header>
         <h1>Photos by Carol Ann</h1>
       </header>
-      <Carousel className="Carousel" autoPlay={true} dynamicHeight={true} infiniteLoop={true}>
+      <Carousel className="Carousel" autoPlay={true} dynamicHeight={true} infiniteLoop={true} showIndicators={false}>
         <div>
           <img src={img1} alt="" />
         </div>
