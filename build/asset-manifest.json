@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/photos-by-carol-ann/static/css/main.c1c397ad.chunk.css",
+    "main.js": "/photos-by-carol-ann/static/js/main.644357e8.chunk.js",
+    "main.js.map": "/photos-by-carol-ann/static/js/main.644357e8.chunk.js.map",
+    "runtime-main.js": "/photos-by-carol-ann/static/js/runtime-main.510e04a4.js",
+    "runtime-main.js.map": "/photos-by-carol-ann/static/js/runtime-main.510e04a4.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/photos-by-carol-ann/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.4b630a2d.chunk.js": "/photos-by-carol-ann/static/js/2.4b630a2d.chunk.js",
+    "static/js/2.4b630a2d.chunk.js.map": "/photos-by-carol-ann/static/js/2.4b630a2d.chunk.js.map",
+    "index.html": "/photos-by-carol-ann/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/photos-by-carol-ann/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.c1c397ad.chunk.css.map": "/photos-by-carol-ann/static/css/main.c1c397ad.chunk.css.map",
+    "static/js/2.4b630a2d.chunk.js.LICENSE.txt": "/photos-by-carol-ann/static/js/2.4b630a2d.chunk.js.LICENSE.txt",
+    "static/media/email.97cb0973.svg": "/photos-by-carol-ann/static/media/email.97cb0973.svg",
+    "static/media/facebook.8ab44a82.svg": "/photos-by-carol-ann/static/media/facebook.8ab44a82.svg",
+    "static/media/img1.46eedbb3.jpg": "/photos-by-carol-ann/static/media/img1.46eedbb3.jpg",
+    "static/media/img10.7b1293ee.jpg": "/photos-by-carol-ann/static/media/img10.7b1293ee.jpg",
+    "static/media/img11.7c7877ba.jpg": "/photos-by-carol-ann/static/media/img11.7c7877ba.jpg",
+    "static/media/img12.acb8a4be.jpg": "/photos-by-carol-ann/static/media/img12.acb8a4be.jpg",
+    "static/media/img2.71eb834b.jpg": "/photos-by-carol-ann/static/media/img2.71eb834b.jpg",
+    "static/media/img3.35fc577e.jpg": "/photos-by-carol-ann/static/media/img3.35fc577e.jpg",
+    "static/media/img4.24e2e3a8.jpg": "/photos-by-carol-ann/static/media/img4.24e2e3a8.jpg",
+    "static/media/img5.58d7d5ca.jpg": "/photos-by-carol-ann/static/media/img5.58d7d5ca.jpg",
+    "static/media/img6.949b6a39.jpg": "/photos-by-carol-ann/static/media/img6.949b6a39.jpg",
+    "static/media/img7.a4691a1b.jpg": "/photos-by-carol-ann/static/media/img7.a4691a1b.jpg",
+    "static/media/img8.525d3820.jpg": "/photos-by-carol-ann/static/media/img8.525d3820.jpg",
+    "static/media/img9.abf17cb1.jpg": "/photos-by-carol-ann/static/media/img9.abf17cb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.510e04a4.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.4b630a2d.chunk.js",
+    "static/css/main.c1c397ad.chunk.css",
+    "static/js/main.644357e8.chunk.js"
+  ]
+}
