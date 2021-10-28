@@ -1,0 +1,68 @@
+/* Global */
+:root,
+body,
+main {
+  max-width: 100vw;
+  min-height: 100vh;
+  box-sizing: border-box;
+  line-height: 3rem;
+  text-align: center;
+  color: #222
+}
+
+body {
+    padding: 2rem;
+    background-image: linear-gradient(#de6fa1, #aa98a9);
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        gap: 2rem;
+
+        h1 {
+            font-family: 'Fleur De Leah', cursive;
+            font-size: 3rem;
+        }
+
+        .Carousel {
+            width: 50%;
+            height: fit-content;
+            div {
+                img {
+                    max-width: 100%;
+                }
+            }
+        }
+
+        @media screen and (max-width: 800px) {
+            .Carousel {
+                width: 75%;
+            }
+        }
+
+        .contact {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 2rem;
+
+            h2 {
+                font-family: 'Dancing Script', cursive;
+                font-size: 2rem;
+            }
+            div {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 2rem;
+
+                img {
+                    width: 2rem;
+                    height: 2rem;
+                }
+            }
+        }
+    }
+}
